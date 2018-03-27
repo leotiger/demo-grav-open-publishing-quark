@@ -29,3 +29,4 @@ pagination: true
 ---
 
 # My **Open** Publishing Space
+## Publish, Share, and Collaborate
